@@ -14,6 +14,6 @@ I completed my graduation in mechanical engineering, yet my true interest has al
 - **pandas**
 - **PySpark**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Imranian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/imran-mohammad-//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCZ1zaoXcXGFVSWdWpTSxcMQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='coursera' height='40'>](https://www.coursera.org/user/9725fadbd0a945c57b79b89e66580b0e)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imranian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imran-mohammad-//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCZ1zaoXcXGFVSWdWpTSxcMQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='coursera' height='40'>](https://www.coursera.org/user/9725fadbd0a945c57b79b89e66580b0e)  
 
 
