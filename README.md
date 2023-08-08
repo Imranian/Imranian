@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran Mohammad</h1>
 <h3 align="center">A Data Engineering Enthusiast</h3>
-![A Data Engineering Enthusiast](https://media.licdn.com/dms/image/D5616AQHvjeJGR0W5cQ/profile-displaybackgroundimage-shrink_350_1400/0/1687076803413?e=1697068800&v=beta&t=dkplzBaQOr6yoVaztQWEszv2f1-C_Is6pOhJ-N64PWI)
+![A Data Engineering Enthusiast](https://github.com/Imranian/Imranian/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranian&label=Profile%20views&color=0e75b6&style=flat" alt="imranian" /> </p>
 I'm a mechanical engineer who is passionate about Data Engineering. So, after my graduation, I started learning about Data Science. I've explored areas such as data analytics, business intelligence, and the role of a Data Scientist, among others. Extracting insights from data has been a source of enjoyment for me. However, a question has persistently lingered in my mind: How does the data reach this stage? This curiosity has significantly fueled my interest in the field of data engineering.
 
