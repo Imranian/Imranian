@@ -5,7 +5,6 @@
 ![A Data Engineering Enthusiast](https://github.com/Imranian/Imranian/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranian&label=Profile%20views&color=0e75b6&style=flat" alt="imranian" /> </p>
 I'm a mechanical engineer who is passionate about Data Engineering. After my graduation, I started learning about Data Science. I've explored areas such as data analytics, business intelligence, and the role of a Data Scientist, among others. Extracting insights from data has been a source of enjoyment for me. However, a question has persistently lingered in my mind: How does the data reach this stage? This curiosity has significantly fueled my interest in the field of data engineering.
 
 
@@ -26,7 +25,7 @@ I'm a mechanical engineer who is passionate about Data Engineering. After my gra
 <a href="https://www.coursera.org/user/9725fadbd0a945c57b79b89e66580b0e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg" alt="coursera" height="30" width="40" /></a>
 </p>
 
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=imranian&label=Profile%20views&color=0e75b6&style=flat" alt="imranian" /> </p>
  
 
 
